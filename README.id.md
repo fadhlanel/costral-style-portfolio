@@ -51,8 +51,6 @@ Sebagian besar konten portofolio berada di `src/data/portfolioData.ts`.
 5. Tambahkan CV Anda lalu ubah link download di `src/components/hero/HeroSection.tsx`.
 6. Ubah username GitHub pada data kontak agar kartu aktivitas memakai profil Anda.
 
-Jangan commit password, API key, token, dokumen privat, atau data pribadi yang tidak ingin dipublikasikan.
-
 ## Perintah
 
 ```bash
