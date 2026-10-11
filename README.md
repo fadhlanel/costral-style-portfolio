@@ -51,8 +51,6 @@ Most portfolio content lives in `src/data/portfolioData.ts`.
 5. Add your own CV and update the download link in `src/components/hero/HeroSection.tsx`.
 6. Update the GitHub username in the contact data so activity cards show your profile.
 
-Do not commit passwords, API keys, tokens, private documents, or personal data you do not want public.
-
 ## Commands
 
 ```bash
